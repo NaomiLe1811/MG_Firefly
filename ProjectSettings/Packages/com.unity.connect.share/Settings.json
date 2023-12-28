@@ -1,0 +1,23 @@
+{
+    "m_Name": "Settings",
+    "m_Path": "ProjectSettings/Packages/com.unity.connect.share/Settings.json",
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"/Users/nguyenle/Desktop/Unity/Firefly_Done/Builds/WebGL/WebGL;/Users/nguyenle/Desktop/Unity/Firefly_Done/Builds/WebGL;/Users/nguyenle/Desktop/Unity/Firefly_Draft 3/Builds;/Users/nguyenle/Desktop/firefly/onlinedraft;/Users/nguyenle/Desktop/Unity/Firefly 2 (draft again)/onlinedraft;;;;;\"}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "autoPublish",
+                "value": "{\"m_Value\":true}"
+            }
+        ]
+    }
+}
